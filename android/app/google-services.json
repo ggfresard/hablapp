@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186263154322",
+    "firebase_url": "https://legabsholapp.firebaseio.com",
+    "project_id": "legabsholapp",
+    "storage_bucket": "legabsholapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186263154322:android:418622e76598483f83804b",
+        "android_client_info": {
+          "package_name": "com.legab.hablapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186263154322-csolm9adac1fe055hrit297714baf7r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOWTcCkzLMCTX6BKpOZI3O-At2nJk0ieA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186263154322-csolm9adac1fe055hrit297714baf7r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
